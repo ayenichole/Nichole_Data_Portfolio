@@ -6,6 +6,7 @@ Key interests:  Consumer Behaviour in Retail
                 User behaviour on social platforms
                 Automotive Industry
                 Financial and Economical Topics
+                
 ***Online Database Application*********
 An online databse store application i did at the end of my database design module for my Database Engineering specialisation.
 Included is an online store database application represented in project format.
