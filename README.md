@@ -16,3 +16,14 @@ TOOLS USED: Microsoft Visio(ERD Diagrams, flowcharts), Microsoft SQL Server Mana
 Feel free to have a look :)
 
 *****************************************
+
+
+***University Enrollment Database Application********
+
+An implementation I did of a University Enrollment Database Application mockup at the conclusion of my Web Service Database Design Class.
+It includes: mockups, erd diagrams, UML diagrams, table diagrams, documentation about limitations and assumptions.
+The main tasks was drawing mockups using tools, erd diagrams, uml technology and its interrelation with databases
+TOOLS USED: Microsoft Visio, Mockflow.com, Draw.io, etc
+Please have a look :)
+
+****************************************
