@@ -27,3 +27,13 @@ TOOLS USED: Microsoft Visio, Mockflow.com, Draw.io, etc
 Please have a look :)
 
 ****************************************
+
+
+****Revenue Visualisations****
+
+A task I did through my course to implement data visualisation in Microsoft Excel for line charts, stacked column and pie charts. The information was extracted from data provided.
+Included : Stacked Column Chart, Line Chart, Pie Chart
+TOOLS USED: Microsoft Excel
+Have a look :)
+
+**********************************************
