@@ -37,3 +37,10 @@ TOOLS USED: Microsoft Excel
 Have a look :)
 
 **********************************************
+
+****My First PowerBI****
+My preliminary experiments with Microsoft PowerBI and designing visualisations to derive meaning from data. The journey looks insightful, promising and exciting. This is the beginning!
+TOOLS USED: Microsoft Excel(raw data), Source:(CISCO), Microsoft Power BI
+Have a look :)
+
+******************************************************
