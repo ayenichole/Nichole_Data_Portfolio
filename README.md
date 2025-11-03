@@ -45,3 +45,11 @@ TOOLS USED: Microsoft Excel(raw data), Source:(CISCO), Microsoft Power BI
 Have a look :)
 
 ******************************************************
+
+****First Viz ******
+
+My preliminary experiments with Tableau which involved designing a visualisation to compare revenue by the year and popularity. The outcome was a Bar-Line Chart. Excited for the future this is just the beginning!
+TOOLS USED: Microsoft Excel(raw data), Source:(CISCO), Tableau Public
+Have a look :) I will provide a link to my Tableau profile: https://public.tableau.com/app/profile/nichole.denga/vizzes
+
+************************************************************
